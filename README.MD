@@ -347,4 +347,8 @@ Arbusta@N-429 MINGW64 ~/Desktop/ejercicio_final_Git_hub/Devjumpers (main)
 $ git push
 Everything up-to-date
 
+| Nombre               | GitHub                          |
+| -------------------- | ------------------------------- |
+| Matias Albujar       | [Matias-lab-ARB](https://github.com/Matias-lab-ARB)     |
+| Yuneidis Serna   | [YuneidisLS](https://github.com/YuneidisLS) |
 
